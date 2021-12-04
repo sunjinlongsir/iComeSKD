@@ -1,0 +1,22 @@
+{
+  "name": "iComeSKD",
+  "version": "0.1.0",
+  "summary": "A short description of iComeSKD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sunjinlongsir/iComeSKD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sunjinlongsir": "2022276432@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/sunjinlongsir/iComeSKD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "iComeSKD/Classes/**/*"
+}
