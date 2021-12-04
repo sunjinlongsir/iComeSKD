@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'iComeSKD_Example' do
+  pod 'iComeSKD', :path => '../'
+
+  target 'iComeSKD_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
